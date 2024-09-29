@@ -21,6 +21,36 @@
 <h3> Now bake the pi and take some break until the work is done. </h3><p>
 <h2>Some major steps. </h2>
 
-<h5>1.After that insert the SD card into raspbery pi and turn on raspberry pi with ethernet connection.</h5><p>
+1.After that insert the SD card into raspbery pi and turn on raspberry pi with ethernet connection.<p>
 
 2.Then open your laptop and connect raspberry pi into your terminal with the help of SHH.
+<p>
+  <img src="https://raw.githubusercontent.com/AnandKatariya/How-to-Make-NAS-with-Raspberry-pi-/refs/heads/main/photo/01.png" />
+</p>
+3. Now we are in, So first all we need to do is update this machine.
+
+## Update and upgrade
+```sh
+sudo apt update && sudo apt upgrade
+```
+
+<p>
+  <img src="https://raw.githubusercontent.com/AnandKatariya/How-to-Make-NAS-with-Raspberry-pi-/refs/heads/main/photo/2.png" />
+</p>
+
+4. We need to add now OpenMediaVault so we need to do this command.
+
+## Update and upgrade
+```sh
+sudo wget -O - https://github.com/OpenMediaVault-Plugin-Developers/installScript/raw/master/install | sudo bash
+```
+
+<p>
+  <img src="" />
+</p>
+
+
+
+
+
+
