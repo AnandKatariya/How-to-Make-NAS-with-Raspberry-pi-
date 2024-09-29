@@ -13,5 +13,9 @@
   2.Hard disk <p> 
   3.SD card  <p>
 </p>
-
-Bake raspbery pi into raspberry pi own software with lite version.
+<h2> Bake the raspberry pi </h2> <p>
+1.Downlode raspbery pi software and <p>
+2.open it choose you device <p>
+3.Go in operating system and then select raspberry pi lite of 32 bits in advance option.<p>
+<h6> Note:-while doing this you will have another command window so go in that and on ssh and make ssh name and id and password. </h6>
+<h3> Now bake the pi and take some break until the work is done. </h3>
