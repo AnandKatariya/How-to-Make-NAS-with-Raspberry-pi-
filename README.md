@@ -18,4 +18,9 @@
 2.open it choose you device <p>
 3.Go in operating system and then select raspberry pi lite of 32 bits in advance option.<p>
 <h6> Note:-while doing this you will have another command window so go in that and on ssh and make ssh name and id and password. </h6>
-<h3> Now bake the pi and take some break until the work is done. </h3>
+<h3> Now bake the pi and take some break until the work is done. </h3><p>
+<h2>Some major steps. </h2>
+
+<h5>1.After that insert the SD card into raspbery pi and turn on raspberry pi with ethernet connection.</h5><p>
+
+2.Then open your laptop and connect raspberry pi into your terminal with the help of SHH.
