@@ -40,7 +40,7 @@ sudo apt update && sudo apt upgrade
 
 4. We need to add now OpenMediaVault so we need to do this command.
 
-## Update and upgrade
+## Install Open Mwdia Vault
 ```sh
 sudo wget -O - https://github.com/OpenMediaVault-Plugin-Developers/installScript/raw/master/install | sudo bash
 ```
